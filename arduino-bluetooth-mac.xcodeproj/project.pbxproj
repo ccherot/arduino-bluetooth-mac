@@ -12,6 +12,26 @@
 		3B70698722D4093E00852E0B /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B70698522D4093E00852E0B /* MainMenu.xib */; };
 		3B70699322D4093F00852E0B /* arduino_bluetooth_macTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B70699222D4093F00852E0B /* arduino_bluetooth_macTests.swift */; };
 		3B70699E22D4093F00852E0B /* arduino_bluetooth_macUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B70699D22D4093F00852E0B /* arduino_bluetooth_macUITests.swift */; };
+		3BBBECC322D6A1CD00C6BBAB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECC222D6A1CD00C6BBAB /* AppDelegate.swift */; };
+		3BBBECC522D6A1CD00C6BBAB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECC422D6A1CD00C6BBAB /* ViewController.swift */; };
+		3BBBECC822D6A1CD00C6BBAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BBBECC622D6A1CD00C6BBAB /* Main.storyboard */; };
+		3BBBECCA22D6A1CF00C6BBAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BBBECC922D6A1CF00C6BBAB /* Assets.xcassets */; };
+		3BBBECCD22D6A1CF00C6BBAB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BBBECCB22D6A1CF00C6BBAB /* LaunchScreen.storyboard */; };
+		3BBBECD822D6A1CF00C6BBAB /* arduino_bluetooth_iosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECD722D6A1CF00C6BBAB /* arduino_bluetooth_iosTests.swift */; };
+		3BBBECE322D6A1D000C6BBAB /* arduino_bluetooth_iosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECE222D6A1D000C6BBAB /* arduino_bluetooth_iosUITests.swift */; };
+		3BBBECEF22D6AD1300C6BBAB /* NSDataInt8Support.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECEE22D6AD1300C6BBAB /* NSDataInt8Support.swift */; };
+		3BBBECF322D7A1A900C6BBAB /* BlueToothIO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECF222D7A1A900C6BBAB /* BlueToothIO.swift */; };
+		3BBBECFC22DEA68500C6BBAB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECFB22DEA68500C6BBAB /* ViewController.swift */; };
+		3BBBECFD22DEA93400C6BBAB /* BlueToothIO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECF222D7A1A900C6BBAB /* BlueToothIO.swift */; };
+		3BBBECFE22DEA93B00C6BBAB /* BlueToothIO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECF222D7A1A900C6BBAB /* BlueToothIO.swift */; };
+		3BBBECFF22DEA93D00C6BBAB /* BlueToothIO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECF222D7A1A900C6BBAB /* BlueToothIO.swift */; };
+		3BBBED0022DEA93F00C6BBAB /* BlueToothIO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECF222D7A1A900C6BBAB /* BlueToothIO.swift */; };
+		3BBBED0122DEA93F00C6BBAB /* BlueToothIO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECF222D7A1A900C6BBAB /* BlueToothIO.swift */; };
+		3BBBED0222DEAEB000C6BBAB /* NSDataInt8Support.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECEE22D6AD1300C6BBAB /* NSDataInt8Support.swift */; };
+		3BBBED0322DEAEB100C6BBAB /* NSDataInt8Support.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECEE22D6AD1300C6BBAB /* NSDataInt8Support.swift */; };
+		3BBBED0422DEAEB100C6BBAB /* NSDataInt8Support.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECEE22D6AD1300C6BBAB /* NSDataInt8Support.swift */; };
+		3BBBED0522DEAEB200C6BBAB /* NSDataInt8Support.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECEE22D6AD1300C6BBAB /* NSDataInt8Support.swift */; };
+		3BBBED0622DEAEB300C6BBAB /* NSDataInt8Support.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBBECEE22D6AD1300C6BBAB /* NSDataInt8Support.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +49,20 @@
 			remoteGlobalIDString = 3B70697D22D4093D00852E0B;
 			remoteInfo = "arduino-bluetooth-mac";
 		};
+		3BBBECD422D6A1CF00C6BBAB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3B70697622D4093D00852E0B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3BBBECBF22D6A1CD00C6BBAB;
+			remoteInfo = "arduino-bluetooth-ios";
+		};
+		3BBBECDF22D6A1D000C6BBAB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3B70697622D4093D00852E0B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3BBBECBF22D6A1CD00C6BBAB;
+			remoteInfo = "arduino-bluetooth-ios";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +78,23 @@
 		3B70699922D4093F00852E0B /* arduino-bluetooth-macUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "arduino-bluetooth-macUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B70699D22D4093F00852E0B /* arduino_bluetooth_macUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arduino_bluetooth_macUITests.swift; sourceTree = "<group>"; };
 		3B70699F22D4093F00852E0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BBBECC022D6A1CD00C6BBAB /* arduino-bluetooth-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "arduino-bluetooth-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BBBECC222D6A1CD00C6BBAB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3BBBECC422D6A1CD00C6BBAB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3BBBECC722D6A1CD00C6BBAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3BBBECC922D6A1CF00C6BBAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3BBBECCC22D6A1CF00C6BBAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3BBBECCE22D6A1CF00C6BBAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BBBECD322D6A1CF00C6BBAB /* arduino-bluetooth-iosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "arduino-bluetooth-iosTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BBBECD722D6A1CF00C6BBAB /* arduino_bluetooth_iosTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arduino_bluetooth_iosTests.swift; sourceTree = "<group>"; };
+		3BBBECD922D6A1CF00C6BBAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BBBECDE22D6A1CF00C6BBAB /* arduino-bluetooth-iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "arduino-bluetooth-iosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BBBECE222D6A1D000C6BBAB /* arduino_bluetooth_iosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arduino_bluetooth_iosUITests.swift; sourceTree = "<group>"; };
+		3BBBECE422D6A1D000C6BBAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BBBECEE22D6AD1300C6BBAB /* NSDataInt8Support.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSDataInt8Support.swift; sourceTree = "<group>"; };
+		3BBBECF222D7A1A900C6BBAB /* BlueToothIO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueToothIO.swift; sourceTree = "<group>"; };
+		3BBBECFB22DEA68500C6BBAB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3BBBED0722DEBED000C6BBAB /* arduino-bluetooth-mac.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "arduino-bluetooth-mac.entitlements"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +119,27 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		3BBBECBD22D6A1CD00C6BBAB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BBBECD022D6A1CF00C6BBAB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BBBECDB22D6A1CF00C6BBAB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -77,6 +149,9 @@
 				3B70698022D4093D00852E0B /* arduino-bluetooth-mac */,
 				3B70699122D4093F00852E0B /* arduino-bluetooth-macTests */,
 				3B70699C22D4093F00852E0B /* arduino-bluetooth-macUITests */,
+				3BBBECC122D6A1CD00C6BBAB /* arduino-bluetooth-ios */,
+				3BBBECD622D6A1CF00C6BBAB /* arduino-bluetooth-iosTests */,
+				3BBBECE122D6A1D000C6BBAB /* arduino-bluetooth-iosUITests */,
 				3B70697F22D4093D00852E0B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -87,6 +162,9 @@
 				3B70697E22D4093D00852E0B /* arduino-bluetooth-mac.app */,
 				3B70698E22D4093F00852E0B /* arduino-bluetooth-macTests.xctest */,
 				3B70699922D4093F00852E0B /* arduino-bluetooth-macUITests.xctest */,
+				3BBBECC022D6A1CD00C6BBAB /* arduino-bluetooth-ios.app */,
+				3BBBECD322D6A1CF00C6BBAB /* arduino-bluetooth-iosTests.xctest */,
+				3BBBECDE22D6A1CF00C6BBAB /* arduino-bluetooth-iosUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -94,11 +172,13 @@
 		3B70698022D4093D00852E0B /* arduino-bluetooth-mac */ = {
 			isa = PBXGroup;
 			children = (
+				3BBBED0722DEBED000C6BBAB /* arduino-bluetooth-mac.entitlements */,
 				3B70698122D4093D00852E0B /* AppDelegate.swift */,
 				3B70698322D4093E00852E0B /* Assets.xcassets */,
 				3B70698522D4093E00852E0B /* MainMenu.xib */,
 				3B70698822D4093E00852E0B /* Info.plist */,
 				3B70698922D4093F00852E0B /* arduino_bluetooth_mac.entitlements */,
+				3BBBECFB22DEA68500C6BBAB /* ViewController.swift */,
 			);
 			path = "arduino-bluetooth-mac";
 			sourceTree = "<group>";
@@ -119,6 +199,39 @@
 				3B70699F22D4093F00852E0B /* Info.plist */,
 			);
 			path = "arduino-bluetooth-macUITests";
+			sourceTree = "<group>";
+		};
+		3BBBECC122D6A1CD00C6BBAB /* arduino-bluetooth-ios */ = {
+			isa = PBXGroup;
+			children = (
+				3BBBECF222D7A1A900C6BBAB /* BlueToothIO.swift */,
+				3BBBECC222D6A1CD00C6BBAB /* AppDelegate.swift */,
+				3BBBECC422D6A1CD00C6BBAB /* ViewController.swift */,
+				3BBBECC622D6A1CD00C6BBAB /* Main.storyboard */,
+				3BBBECC922D6A1CF00C6BBAB /* Assets.xcassets */,
+				3BBBECCB22D6A1CF00C6BBAB /* LaunchScreen.storyboard */,
+				3BBBECCE22D6A1CF00C6BBAB /* Info.plist */,
+				3BBBECEE22D6AD1300C6BBAB /* NSDataInt8Support.swift */,
+			);
+			path = "arduino-bluetooth-ios";
+			sourceTree = "<group>";
+		};
+		3BBBECD622D6A1CF00C6BBAB /* arduino-bluetooth-iosTests */ = {
+			isa = PBXGroup;
+			children = (
+				3BBBECD722D6A1CF00C6BBAB /* arduino_bluetooth_iosTests.swift */,
+				3BBBECD922D6A1CF00C6BBAB /* Info.plist */,
+			);
+			path = "arduino-bluetooth-iosTests";
+			sourceTree = "<group>";
+		};
+		3BBBECE122D6A1D000C6BBAB /* arduino-bluetooth-iosUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3BBBECE222D6A1D000C6BBAB /* arduino_bluetooth_iosUITests.swift */,
+				3BBBECE422D6A1D000C6BBAB /* Info.plist */,
+			);
+			path = "arduino-bluetooth-iosUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -177,6 +290,59 @@
 			productReference = 3B70699922D4093F00852E0B /* arduino-bluetooth-macUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		3BBBECBF22D6A1CD00C6BBAB /* arduino-bluetooth-ios */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BBBECEB22D6A1D000C6BBAB /* Build configuration list for PBXNativeTarget "arduino-bluetooth-ios" */;
+			buildPhases = (
+				3BBBECBC22D6A1CD00C6BBAB /* Sources */,
+				3BBBECBD22D6A1CD00C6BBAB /* Frameworks */,
+				3BBBECBE22D6A1CD00C6BBAB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "arduino-bluetooth-ios";
+			productName = "arduino-bluetooth-ios";
+			productReference = 3BBBECC022D6A1CD00C6BBAB /* arduino-bluetooth-ios.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3BBBECD222D6A1CF00C6BBAB /* arduino-bluetooth-iosTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BBBECEC22D6A1D000C6BBAB /* Build configuration list for PBXNativeTarget "arduino-bluetooth-iosTests" */;
+			buildPhases = (
+				3BBBECCF22D6A1CF00C6BBAB /* Sources */,
+				3BBBECD022D6A1CF00C6BBAB /* Frameworks */,
+				3BBBECD122D6A1CF00C6BBAB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3BBBECD522D6A1CF00C6BBAB /* PBXTargetDependency */,
+			);
+			name = "arduino-bluetooth-iosTests";
+			productName = "arduino-bluetooth-iosTests";
+			productReference = 3BBBECD322D6A1CF00C6BBAB /* arduino-bluetooth-iosTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3BBBECDD22D6A1CF00C6BBAB /* arduino-bluetooth-iosUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BBBECED22D6A1D000C6BBAB /* Build configuration list for PBXNativeTarget "arduino-bluetooth-iosUITests" */;
+			buildPhases = (
+				3BBBECDA22D6A1CF00C6BBAB /* Sources */,
+				3BBBECDB22D6A1CF00C6BBAB /* Frameworks */,
+				3BBBECDC22D6A1CF00C6BBAB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3BBBECE022D6A1D000C6BBAB /* PBXTargetDependency */,
+			);
+			name = "arduino-bluetooth-iosUITests";
+			productName = "arduino-bluetooth-iosUITests";
+			productReference = 3BBBECDE22D6A1CF00C6BBAB /* arduino-bluetooth-iosUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -189,6 +355,11 @@
 				TargetAttributes = {
 					3B70697D22D4093D00852E0B = {
 						CreatedOnToolsVersion = 10.2.1;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 1;
+							};
+						};
 					};
 					3B70698D22D4093F00852E0B = {
 						CreatedOnToolsVersion = 10.2.1;
@@ -197,6 +368,17 @@
 					3B70699822D4093F00852E0B = {
 						CreatedOnToolsVersion = 10.2.1;
 						TestTargetID = 3B70697D22D4093D00852E0B;
+					};
+					3BBBECBF22D6A1CD00C6BBAB = {
+						CreatedOnToolsVersion = 10.2.1;
+					};
+					3BBBECD222D6A1CF00C6BBAB = {
+						CreatedOnToolsVersion = 10.2.1;
+						TestTargetID = 3BBBECBF22D6A1CD00C6BBAB;
+					};
+					3BBBECDD22D6A1CF00C6BBAB = {
+						CreatedOnToolsVersion = 10.2.1;
+						TestTargetID = 3BBBECBF22D6A1CD00C6BBAB;
 					};
 				};
 			};
@@ -216,6 +398,9 @@
 				3B70697D22D4093D00852E0B /* arduino-bluetooth-mac */,
 				3B70698D22D4093F00852E0B /* arduino-bluetooth-macTests */,
 				3B70699822D4093F00852E0B /* arduino-bluetooth-macUITests */,
+				3BBBECBF22D6A1CD00C6BBAB /* arduino-bluetooth-ios */,
+				3BBBECD222D6A1CF00C6BBAB /* arduino-bluetooth-iosTests */,
+				3BBBECDD22D6A1CF00C6BBAB /* arduino-bluetooth-iosUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -244,6 +429,30 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		3BBBECBE22D6A1CD00C6BBAB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BBBECCD22D6A1CF00C6BBAB /* LaunchScreen.storyboard in Resources */,
+				3BBBECCA22D6A1CF00C6BBAB /* Assets.xcassets in Resources */,
+				3BBBECC822D6A1CD00C6BBAB /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BBBECD122D6A1CF00C6BBAB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BBBECDC22D6A1CF00C6BBAB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -251,6 +460,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BBBECFD22DEA93400C6BBAB /* BlueToothIO.swift in Sources */,
+				3BBBED0222DEAEB000C6BBAB /* NSDataInt8Support.swift in Sources */,
+				3BBBECFC22DEA68500C6BBAB /* ViewController.swift in Sources */,
 				3B70698222D4093D00852E0B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,6 +471,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BBBECFE22DEA93B00C6BBAB /* BlueToothIO.swift in Sources */,
+				3BBBED0322DEAEB100C6BBAB /* NSDataInt8Support.swift in Sources */,
 				3B70699322D4093F00852E0B /* arduino_bluetooth_macTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -267,7 +481,40 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BBBECFF22DEA93D00C6BBAB /* BlueToothIO.swift in Sources */,
+				3BBBED0422DEAEB100C6BBAB /* NSDataInt8Support.swift in Sources */,
 				3B70699E22D4093F00852E0B /* arduino_bluetooth_macUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BBBECBC22D6A1CD00C6BBAB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BBBECF322D7A1A900C6BBAB /* BlueToothIO.swift in Sources */,
+				3BBBECC522D6A1CD00C6BBAB /* ViewController.swift in Sources */,
+				3BBBECEF22D6AD1300C6BBAB /* NSDataInt8Support.swift in Sources */,
+				3BBBECC322D6A1CD00C6BBAB /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BBBECCF22D6A1CF00C6BBAB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BBBED0022DEA93F00C6BBAB /* BlueToothIO.swift in Sources */,
+				3BBBED0522DEAEB200C6BBAB /* NSDataInt8Support.swift in Sources */,
+				3BBBECD822D6A1CF00C6BBAB /* arduino_bluetooth_iosTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BBBECDA22D6A1CF00C6BBAB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BBBED0122DEA93F00C6BBAB /* BlueToothIO.swift in Sources */,
+				3BBBED0622DEAEB300C6BBAB /* NSDataInt8Support.swift in Sources */,
+				3BBBECE322D6A1D000C6BBAB /* arduino_bluetooth_iosUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,6 +531,16 @@
 			target = 3B70697D22D4093D00852E0B /* arduino-bluetooth-mac */;
 			targetProxy = 3B70699A22D4093F00852E0B /* PBXContainerItemProxy */;
 		};
+		3BBBECD522D6A1CF00C6BBAB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3BBBECBF22D6A1CD00C6BBAB /* arduino-bluetooth-ios */;
+			targetProxy = 3BBBECD422D6A1CF00C6BBAB /* PBXContainerItemProxy */;
+		};
+		3BBBECE022D6A1D000C6BBAB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3BBBECBF22D6A1CD00C6BBAB /* arduino-bluetooth-ios */;
+			targetProxy = 3BBBECDF22D6A1D000C6BBAB /* PBXContainerItemProxy */;
+		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
@@ -293,6 +550,22 @@
 				3B70698622D4093E00852E0B /* Base */,
 			);
 			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		3BBBECC622D6A1CD00C6BBAB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BBBECC722D6A1CD00C6BBAB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3BBBECCB22D6A1CF00C6BBAB /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BBBECCC22D6A1CF00C6BBAB /* Base */,
+			);
+			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -417,11 +690,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = "arduino-bluetooth-mac/arduino_bluetooth_mac.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "arduino-bluetooth-mac/arduino-bluetooth-mac.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = J26DT4NH4T;
 				INFOPLIST_FILE = "arduino-bluetooth-mac/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -436,11 +710,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = "arduino-bluetooth-mac/arduino_bluetooth_mac.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "arduino-bluetooth-mac/arduino-bluetooth-mac.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = J26DT4NH4T;
+				ENABLE_TESTABILITY = NO;
 				INFOPLIST_FILE = "arduino-bluetooth-mac/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -448,6 +724,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.me.ccherot.arduino-bluetooth-mac";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
@@ -533,6 +810,145 @@
 			};
 			name = Release;
 		};
+		3BBBECE522D6A1D000C6BBAB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J26DT4NH4T;
+				INFOPLIST_FILE = "arduino-bluetooth-ios/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.me.ccherot.arduino-bluetooth-ios";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3BBBECE622D6A1D000C6BBAB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J26DT4NH4T;
+				INFOPLIST_FILE = "arduino-bluetooth-ios/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.me.ccherot.arduino-bluetooth-ios";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3BBBECE722D6A1D000C6BBAB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J26DT4NH4T;
+				INFOPLIST_FILE = "arduino-bluetooth-iosTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.me.ccherot.arduino-bluetooth-iosTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/arduino-bluetooth-ios.app/arduino-bluetooth-ios";
+			};
+			name = Debug;
+		};
+		3BBBECE822D6A1D000C6BBAB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J26DT4NH4T;
+				INFOPLIST_FILE = "arduino-bluetooth-iosTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.me.ccherot.arduino-bluetooth-iosTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/arduino-bluetooth-ios.app/arduino-bluetooth-ios";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3BBBECE922D6A1D000C6BBAB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J26DT4NH4T;
+				INFOPLIST_FILE = "arduino-bluetooth-iosUITests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.me.ccherot.arduino-bluetooth-iosUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "arduino-bluetooth-ios";
+			};
+			name = Debug;
+		};
+		3BBBECEA22D6A1D000C6BBAB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J26DT4NH4T;
+				INFOPLIST_FILE = "arduino-bluetooth-iosUITests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.me.ccherot.arduino-bluetooth-iosUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "arduino-bluetooth-ios";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -568,6 +984,33 @@
 			buildConfigurations = (
 				3B7069A922D4093F00852E0B /* Debug */,
 				3B7069AA22D4093F00852E0B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BBBECEB22D6A1D000C6BBAB /* Build configuration list for PBXNativeTarget "arduino-bluetooth-ios" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BBBECE522D6A1D000C6BBAB /* Debug */,
+				3BBBECE622D6A1D000C6BBAB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BBBECEC22D6A1D000C6BBAB /* Build configuration list for PBXNativeTarget "arduino-bluetooth-iosTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BBBECE722D6A1D000C6BBAB /* Debug */,
+				3BBBECE822D6A1D000C6BBAB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BBBECED22D6A1D000C6BBAB /* Build configuration list for PBXNativeTarget "arduino-bluetooth-iosUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BBBECE922D6A1D000C6BBAB /* Debug */,
+				3BBBECEA22D6A1D000C6BBAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
