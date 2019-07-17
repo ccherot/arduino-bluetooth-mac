@@ -80,6 +80,22 @@ extension BlueToothIO: CBCentralManagerDelegate {
     }
     
     func centralManagerDidUpdateState(_ central: CBCentralManager) {
+        var centralState = "state not set"
+        switch central.state {
+        case .poweredOff:
+            centralState = "powererdOff"
+        case .poweredOn:
+            centralState = "poweredOn"
+        case .resetting:
+            centralState = "resetting"
+        case .unauthorized:
+            centralState = "unauthorized"
+        case .unknown:
+            centralState = "unknown"
+        case .unsupported:
+            centralState = "unsupported"
+        }
+        print("BlueToothIO > centraManagerDidUpdateState > state is \(centralState)")
         if central.state == .poweredOn {
             print("BlueToothIO > centralManagerDidUpdateState > .poweredOn")
 

@@ -42,7 +42,7 @@ class ViewController: UIViewController {
 // the BlueToothIODelegate functionality which allows
 // the button on the Arduino board to change the background
 // color of the app
-extension ViewController: BluetoothIODelegate {
+extension ViewController: BlueToothIODelegate {
     func bluetoothIO(blueToothIO: BlueToothIO, didReceiveValue value: Int8) {
         if value > 0 {
            view.backgroundColor = UIColor.yellow
